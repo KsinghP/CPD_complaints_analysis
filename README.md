@@ -1,4 +1,4 @@
-##This code unpacks a database containing complaints against Chicago Police officers by the people of Chicago
+## This code unpacks a database containing complaints against Chicago Police officers by the people of Chicago
 
 ### The database has three parts - the first on accused officers, second on complainants (victims) and the third on investigating officers
 
